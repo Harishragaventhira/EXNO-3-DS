@@ -105,7 +105,6 @@ df["Highly Negative Skew_yeojohnson"],parameters=stats.yeojohnson(df["Highly Neg
 ![image](https://github.com/user-attachments/assets/f380d388-de12-444e-8ae9-3ef20747198b)
 ![image](https://github.com/user-attachments/assets/998a768c-b896-47a6-885e-658b62c690b7)
 ![image](https://github.com/user-attachments/assets/9e77f0cb-0e44-45db-aa29-d6ad29375fc0)
-![image](https://github.com/user-attachments/assets/75d61485-16a5-4faa-9695-9fc9896653c1)
 ![image](https://github.com/user-attachments/assets/92f2f42e-ec13-4082-9508-bc2be12d321c)
 ![image](https://github.com/user-attachments/assets/1a5f5824-95f4-4667-8243-df61f392bd07)
 
